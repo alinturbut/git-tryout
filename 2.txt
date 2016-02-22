@@ -1,2 +1,2 @@
 linia 3
-linia 4
+linia 6
