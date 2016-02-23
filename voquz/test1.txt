@@ -1,2 +1,0 @@
-Nvidia 850M GTX
-Compared to Kepler, Maxwell has been optimized in several details to increase power efficiency. Smaller Streaming Multiprocessors (SMM) with only 128 ALUs (Kepler: 192) and an optimized scheduler should lead to better utilization of the shaders. Nvidia promises that a Maxwell SMM with 128 ALUs can offer 90 percent of the performance of a Kepler SMX with 192 ALUs. GM107 features 5 SMMs and thus 640 shader cores, 40 TMUs and 16 ROPs (128-bit interface).
